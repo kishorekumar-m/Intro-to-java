@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "MirroredRightAngleTriangle",
+            "request": "launch",
+            "mainClass": "MirroredRightAngleTriangle",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "HollowRightAngleTriangle",
+            "request": "launch",
+            "mainClass": "HollowRightAngleTriangle",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "RightAngleTriangle",
+            "request": "launch",
+            "mainClass": "RightAngleTriangle",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "HollowSquare",
+            "request": "launch",
+            "mainClass": "HollowSquare",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "squarePattern",
+            "request": "launch",
+            "mainClass": "squarePattern",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "countVowels",
+            "request": "launch",
+            "mainClass": "countVowels",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "dodod",
+            "request": "launch",
+            "mainClass": "dodod",
+            "projectName": "javaa_e262a83"
+        }
+    ]
+}

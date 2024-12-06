@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "schoolPoly",
+            "request": "launch",
+            "mainClass": "schoolPoly",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "Poly",
+            "request": "launch",
+            "mainClass": "Poly",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "School$poly",
+            "request": "launch",
+            "mainClass": "School$poly",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "Biriyani",
+            "request": "launch",
+            "mainClass": "Biriyani",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "ArithemeticOperations",
+            "request": "launch",
+            "mainClass": "ArithemeticOperations",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "HierarchicalInheritance",
+            "request": "launch",
+            "mainClass": "HierarchicalInheritance",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "FriedRice",
+            "request": "launch",
+            "mainClass": "FriedRice",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
+            "name": "samsung",
+            "request": "launch",
+            "mainClass": "samsung",
+            "projectName": "javaa_e262a83"
+        },
+        {
+            "type": "java",
             "name": "Pyramid",
             "request": "launch",
             "mainClass": "Pyramid",
